@@ -1,0 +1,24 @@
+Location found 	Date	Band Number	Outcome 	Colony	Colony number	Mean distance from colony to fallout location	Fallout location radiance 10^-9 W / cm^2  * sr (2020 NOAA VIIRS Data) 	Distance to coastline (km)	Distance to major road (km)	Fallout location elevation (m)	Mean fallout location distance to nearest colony (km) 	Fallout location closest to colony Y/N	Institution	Notes
+S. Ramp Lagoon Dr. (Daniel K. Inouye Airport)	11/21/2018	954-41155	Euthanized	Popoia	2	23.1	17.31	0.77	0.83	4	14.9	N	HWC	
+46-4 Kawa St. Kāne‘ohe 96744	11/30/2018	954-41277	Released	Popoia	2	8.7	22	0.78	0.11	32	7.05	N	FAF	
+Waimānalo Beach Park	12/4/2018	954-41257	Euthanized	Kāohikaipu	6	4.18	2.09	0	0.23	8	3.75	N	SLP	
+*Honolulu	12/5/2018	954-41751	Released	Mokulua Nui	3	-	-	-	-	-	-	-	HWC	
+*Kailua	12/6/2018	1054-89307	Euthanized	MCBH-KB	1	-	-	-	-	-	-	-	SLP	
+Makai Research Pier (41-305 Kalaniana‘ole Hwy)	11/20/2019	954-39797	Released 	Mokulua Iki	5	7.97	0.71	0	0.12	0	1.24	N	SLP	
+James B. Castle High School Soccerfield (Kāne‘ohe)	11/22/2019	954-44914	Unknown	MCBH-KB	1	6.74	10.73	1.21	0.52	31	6.24	N	BBL	
+Ko‘olina Lagoon 4 	11/25/2019	954-44098	Released 	Mānana	4	48.5	4.41	0	0.86	0	25.9	N	DLNR	
+Three Tables Beach (59-750 Kamehameha Hwy, Hale‘iwa) 	11/25/2019	954-44483	Released 	MCBH	1	41.1	1.27	0	0.05	3	2.7	N	DLNR	
+MCBH-KB Hangar 106	11/25/2019	954-44094	Released	Mānana	4	17.2	4.96	0.14	1.57	8	3.55	N	MCBH	Transferred to DLNR
+MCBH-KB Hangar 105	11/26/2019	954-39723	Released	Mānana	4	17.3	4.96	0.16	1.35	8	3.7	N	MCBH	
+Makai Research Pier (41-305 Kalaniana‘ole Hwy)	11/11/2020	954-45686	Released	MCBH-KB	1	14.1	0.71	0	0.12	0	1.24	N	HWC	
+808 Tattoo (46-018 Kamehameha Hwy #211, Kāne‘ohe, 96744)	11/11/2020	954-45387	Released	Mokulua Nui	3	11.1	14.82	0.61	0.01	32	6.98	N	FAF	
+Kihapai St. Kailua	11/16/2020	954-45237	Released	Popoia	2	3.17	5.34	1.36	1.66	5	1.9	N	HWC	
+Aki's Beach (84-719 Upena Street, Mākaha)	11/17/2020	954-45474	Released	Mokulua Nui	3	54.5	2.92	0	0.2	6	9	N	HMAR	
+Hawai‘i State Hospital (45-710 Keaahala Rd, Kāne‘ohe, 96744)	11/18/2020	954-45896	Released	MCBH-KB	1	7.98	7.03	1.97	0.22	112	7.42	N	FAF	
+Mc'Donalds (87-2028 Farrington Hwy Wai‘anae)	11/19/2020	954-45304	Released	Mokulua Nui	3	47	11.32	0.4	0.03	3	24.4	N	HWC	
+Makai Research Pier (41-305 Kalaniana‘ole Hwy)	11/19/2020	954-45065	Euthanized	Popoia	2	10.3	0.71	0	0.12	0	1.24	N	HWC	
+3.6 mi SW from Kalihi Kai (Daniel K. Inouye Airport)	11/19/2020	954-45123	Unknown	Mānana	4	26.9	6.58	0.44	3.33	3	14.1	N	BBL	
+Punalu‘u Beach Park	11/20/2020	954-45521	Released	MCBH-KB	1	22.1	0.55	0	0.03	6	9.2	N	HWC	
+Kailua High School (451 Ulumanu Dr., Kailua, 96734)	11/24/2020	954-45141	Released	Popoia	2	3.32	5.46	2.32	0.74	36	2.3	N	HWC	
+64 Kāne‘ohe Bay Dr. 	11/26/2020	954-45057	Released	Popoia	2	4.13	7.18	0.61	1.01	17	1.69	N	FAF	
+W. Wākea Ave., Kahului, Maui	12/6/2020	954-45101	Released	Mokulua Nui	3	139.6	22.85	0.98	0.76	3	9.65	N	MNSRP	Recovered in Maui
